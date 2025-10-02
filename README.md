@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-This is a short collection of cute papers in ecology, used to assess reproducibility of open science in 'Methods in Ecology and Evolution Hackathon' (https://www.britishecologicalsociety.org/content/methods-in-ecology-and-evolution-hackathon/)
+ :cherry_blossom: This is a short collection of cute papers in ecology, used to assess reproducibility of open science in :octopus:Methods in Ecology and Evolution Hackathon:octopus: (https://www.britishecologicalsociety.org/content/methods-in-ecology-and-evolution-hackathon/)  :cherry_blossom:
 
 
 ## Papers
