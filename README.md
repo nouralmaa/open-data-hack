@@ -8,6 +8,7 @@ This is a short collection of cute papers in ecology, used to assess reproducibi
 ## Papers
 
 **Continuous remobilization from below-ground provides more than half of all carbon and nitrogen in regrowing shoots after grassland defoliation** \
+[[Paper](http://doi.org/10.1111/1365-2745.14166)]
 
 ### Citation
 ```python
@@ -24,6 +25,7 @@ This is a short collection of cute papers in ecology, used to assess reproducibi
 ```
 
 **The relative influence of cross-seasonal and local weather effects on the breeding success of a migratory songbird** \
+[[Paper](http://doi.org/10.1111/1365-2656.13705)]
 
 ### Citation
 ```python
@@ -41,6 +43,7 @@ This is a short collection of cute papers in ecology, used to assess reproducibi
 
 
 **The temporal and spatial response of soil fungal community composition and potential function to wildfire in a permafrost region in Canada** \
+[[Paper](http://doi.org/10.1111/1365-2435.14194)]
 
 ### Citation
 ```python
@@ -57,6 +60,7 @@ This is a short collection of cute papers in ecology, used to assess reproducibi
 ```
 
 **The effect of competition on the control of invading plant pathogens** \
+[[Paper](http://doi.org/10.1111/1365-2664.13618)]
 
 ### Citation
 ```python
@@ -73,6 +77,7 @@ This is a short collection of cute papers in ecology, used to assess reproducibi
 ```
 
 **Genomic signatures of past megafrugivore-mediated dispersal in Malagasy palms** \
+[[Paper](http://doi.org/10.1111/1365-2745.14340)]
 
 ### Citation
 ```python
@@ -84,6 +89,7 @@ This is a short collection of cute papers in ecology, used to assess reproducibi
 ```
 
 **The active mouse rests within: Energy management among and within individuals** \
+[[Paper](http://doi.org/10.1111/1365-2435.13979)]
 
 ### Citation
 ```python
@@ -101,6 +107,7 @@ This is a short collection of cute papers in ecology, used to assess reproducibi
 
 
 **Quantifying the effect of competition on the functional assembly of bryophyte and lichen communities: A process-based model analysis** \
+[[Paper](http://doi.org/10.1111/1365-2745.14279)]
 
 ### Citation
 ```python
@@ -117,6 +124,7 @@ This is a short collection of cute papers in ecology, used to assess reproducibi
 ```
 
 **Mechanisms of trophic niche compression: Evidence from landscape disturbance** \
+[[Paper](http://doi.org/10.1111/1365-2656.13142)]
 
 ### Citation
 ```python
@@ -133,6 +141,7 @@ This is a short collection of cute papers in ecology, used to assess reproducibi
 ```
 
 **Fruit traits of pioneer trees structure seed dispersal across distances on tropical deforested landscapes: Implications for restoration** \
+[[Paper](http://doi.org/10.1111/1365-2664.13697)]
 
 ### Citation
 ```python
@@ -149,6 +158,7 @@ This is a short collection of cute papers in ecology, used to assess reproducibi
 ```
 
 **Invasive species influence macroinvertebrate biomonitoring tools and functional diversity in British rivers** \
+[[Paper](http://doi.org/10.1111/1365-2664.13795)]
 
 ### Citation
 ```python
@@ -165,6 +175,7 @@ This is a short collection of cute papers in ecology, used to assess reproducibi
 ```
 
 **Diatom defence: Grazer induction and cost of shell-thickening** \
+[[Paper](http://doi.org/10.1111/1365-2435.13635)]
 
 ### Citation
 ```python
@@ -179,15 +190,3 @@ This is a short collection of cute papers in ecology, used to assess reproducibi
   publisher={Wiley Online Library}
 }
 ```
-
-
-
-
-
-
-
-
-
-
-
-# open-data-hack
