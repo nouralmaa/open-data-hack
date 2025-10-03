@@ -2,15 +2,14 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
- :cherry_blossom: This is a short collection of cute papers in ecology, used to assess reproducibility of open science in :octopus:Methods in Ecology and Evolution Hackathon:octopus: (https://www.britishecologicalsociety.org/content/methods-in-ecology-and-evolution-hackathon/)  :cherry_blossom:
+ :cherry_blossom: This is a short collection of cute papers in ecology, used to assess reproducibility of open science in :octopus:Methods in Ecology and Evolution Hackathon:octopus:  :cherry_blossom:
 
 
-## Papers
+## Papers w citations
 
 **Continuous remobilization from below-ground provides more than half of all carbon and nitrogen in regrowing shoots after grassland defoliation** \
 [[Paper](http://doi.org/10.1111/1365-2745.14166)]
 
-### Citation
 ```python
 @article{yang2023continuous,
   title={Continuous remobilization from below-ground provides more than half of all carbon and nitrogen in regrowing shoots after grassland defoliation},
@@ -27,7 +26,6 @@
 **The relative influence of cross-seasonal and local weather effects on the breeding success of a migratory songbird** \
 [[Paper](http://doi.org/10.1111/1365-2656.13705)]
 
-### Citation
 ```python
 @article{de2022relative,
   title={The relative influence of cross-seasonal and local weather effects on the breeding success of a migratory Songbird},
@@ -45,7 +43,6 @@
 **The temporal and spatial response of soil fungal community composition and potential function to wildfire in a permafrost region in Canada** \
 [[Paper](http://doi.org/10.1111/1365-2435.14194)]
 
-### Citation
 ```python
 @article{zhang2023temporal,
   title={The temporal and spatial response of soil fungal community composition and potential function to wildfire in a permafrost region in Canada},
@@ -62,7 +59,6 @@
 **The effect of competition on the control of invading plant pathogens** \
 [[Paper](http://doi.org/10.1111/1365-2664.13618)]
 
-### Citation
 ```python
 @article{sharp2020effect,
   title={The effect of competition on the control of invading plant pathogens},
@@ -79,7 +75,6 @@
 **Genomic signatures of past megafrugivore-mediated dispersal in Malagasy palms** \
 [[Paper](http://doi.org/10.1111/1365-2745.14340)]
 
-### Citation
 ```python
 @misc{mendez2023genomic,
   title={Genomic signatures of past megafrugivore-mediated dispersal in Malagasy palms. BioRxiv, 2023.01. 20.524701},
@@ -91,7 +86,6 @@
 **The active mouse rests within: Energy management among and within individuals** \
 [[Paper](http://doi.org/10.1111/1365-2435.13979)]
 
-### Citation
 ```python
 @article{abdeen2022active,
   title={The active mouse rests within: energy management among and within individuals},
@@ -109,7 +103,6 @@
 **Quantifying the effect of competition on the functional assembly of bryophyte and lichen communities: A process-based model analysis** \
 [[Paper](http://doi.org/10.1111/1365-2745.14279)]
 
-### Citation
 ```python
 @article{ma2024quantifying,
   title={Quantifying the effect of competition on the functional assembly of bryophyte and lichen communities: A process-based model analysis},
@@ -126,7 +119,6 @@
 **Mechanisms of trophic niche compression: Evidence from landscape disturbance** \
 [[Paper](http://doi.org/10.1111/1365-2656.13142)]
 
-### Citation
 ```python
 @article{burdon2020mechanisms,
   title={Mechanisms of trophic niche compression: Evidence from landscape disturbance},
@@ -143,7 +135,6 @@
 **Fruit traits of pioneer trees structure seed dispersal across distances on tropical deforested landscapes: Implications for restoration** \
 [[Paper](http://doi.org/10.1111/1365-2664.13697)]
 
-### Citation
 ```python
 @article{burdon2020mechanisms,
   title={Mechanisms of trophic niche compression: Evidence from landscape disturbance},
@@ -160,7 +151,6 @@
 **Invasive species influence macroinvertebrate biomonitoring tools and functional diversity in British rivers** \
 [[Paper](http://doi.org/10.1111/1365-2664.13795)]
 
-### Citation
 ```python
 @article{guareschi2021invasive,
   title={Invasive species influence macroinvertebrate biomonitoring tools and functional diversity in British rivers},
@@ -177,7 +167,6 @@
 **Diatom defence: Grazer induction and cost of shell-thickening** \
 [[Paper](http://doi.org/10.1111/1365-2435.13635)]
 
-### Citation
 ```python
 @article{gronning2020diatom,
   title={Diatom defence: Grazer induction and cost of shell-thickening},
