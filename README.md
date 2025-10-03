@@ -1,8 +1,41 @@
-# <p align=center>`open data papers`</p> #
+# <p align=center>`open data collects`</p> #
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
- :cherry_blossom: This is a short collection of cute papers in ecology, used to assess reproducibility of open science in :octopus:Methods in Ecology and Evolution Hackathon:octopus:  :cherry_blossom:
+:cherry_blossom: This is a short collection of cute papers in ecology, used to test reproducibility of open science in :octopus:Methods in Ecology and Evolution Hackathon:octopus:  :cherry_blossom:
+
+## Protocol overview:
+
+- quick scan
+    - read abstract
+    - read methods & check for open data/code repos
+    - read open data availability statement
+    - note main findings/discussion 
+- test data/code, step !uno 
+    - fork associated repo and/or download any available public data
+    - note any data quality issues 
+    - execute code 
+        - can you run code without issues/w minimal technical setup?
+        - is the repo well documented containing a useful and detailed README?
+        - are code files well integrated?
+        - does it have version control, can you see git logs and commit history?
+- test code, step !due
+    - does code follow style guides/conventional etiquette (e.g. https://jef.works/R-style-guide/)?
+    - does does follow good naming conventions for files, variables, functions, classes using descriptive and clear names?
+    - does it follow good syntax & spacing practices?
+    - is code readable and maintainable? https://jump24.co.uk/journal/benefits-of-writing-clean-maintainable-code
+    - does code have any quality issues (hardcoded variables, lots of non modular components etc?)
+    - does code repo have unit tests
+     - can you run tests without issues or with minimal issues
+ - test code, step !tre
+   - look over main results again
+   - can you reproduce ALL findings w the avaialble code?
+    
+ 
+## Suggestions for open science:
+  - authors/analysts and maintainers should ensure good documentation practices in open science repos
+  - peer review should probably focus more on technical & tech stuff alongside empirical
+    - PR could include an additional third stage to check supp materials & code quality where available
 
 
 ## Papers w citations
@@ -179,3 +212,20 @@
   publisher={Wiley Online Library}
 }
 ```
+
+**A whole-ecosystem method for experimentally suppressing ants on a small scale** \
+[[Paper](https://doi.org/10.1111/2041-210X.13774)]
+
+```python
+@article{hood2022whole,
+  title={A whole-ecosystem method for experimentally suppressing ants on a small scale},
+  author={Hood, Amelia SC and Aryawan, Anak Agung Ketut and Advento, Andreas D and Suberkah, Wahyu R and Ashton-Butt, Adham and Ps, Sudharto and Caliman, Jean-Pierre and Naim, Mohammad and Foster, William A and Turner, Edgar C},
+  journal={Methods in Ecology and Evolution},
+  volume={13},
+  number={4},
+  pages={852--865},
+  year={2022},
+  publisher={Wiley Online Library}
+}
+```
+
