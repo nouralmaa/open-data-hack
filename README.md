@@ -1,4 +1,4 @@
-# <p align=center>`open data hack`</p> #
+# <p align=center>`open data papers`</p> #
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
